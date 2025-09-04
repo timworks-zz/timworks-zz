@@ -11,7 +11,7 @@ Concept, research, design, make, measure, reflect
 What?  
 Books, comics, words, images, experiences, services, strategies, systems  
   
-Ethos:
+Ethos:  
 Be curious. Have fun. Do good. Connect.  
 We are interdependent with all others, and the planet. Fun.   
 Collaborate and co-create with compassion. Focus.   
