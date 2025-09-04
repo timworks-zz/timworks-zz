@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @timworks
 - 👀 networked organism
-- 🌱 purpose-led design
-- 💞️ regenerative agriculture
+- 🧠 behaviour-led design
+- 🌱 regenerative agriculture
 - 📫 tim@timworks.net
 
 <!---
