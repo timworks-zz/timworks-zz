@@ -1,6 +1,8 @@
 👋🏼 Hello, I'm Tim.
 
-Artist, Designer, Poet, Philosopher
+Artist, Designer, Poet, Philosopher  
+
+Language is the root technology.  
 
 Why?
 To engage, educate, empower, entertain
@@ -9,9 +11,13 @@ Concept, research, design, make, measure, reflect
 What?
 Books, comics, words, images, experiences, services, strategies, systems
 
-Ethos?
-Be curious. Have fun. Do good. Connect.
-We are interdependent with all others, and the planet. Fun. Collaborate and co-create with compassion. Focus. Share stories. Carefully select meaningful projects that lead to positive transformation. Inspire, motivate and enable human behaviour change. Apply life-centered participatory design methods. Language is the root technology.
+Ethos:
+Be curious. Have fun. Do good. Connect.  
+We are interdependent with all others, and the planet. Fun.   
+Collaborate and co-create with compassion. Focus.   
+Share stories. 
+Inspire, motivate and enable human behaviour change.  
+Apply life-centered participatory design methods. 
 
 • 📡 @timworks  
 • 🌍 networked organism  
